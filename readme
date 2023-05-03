@@ -4,6 +4,12 @@
  kubectl delete deployment <deployment name>
  kubectl apply -f [file name]
  
+ CHANGE ACTIVE NAMESPACE:
+ kuben       used to list the namespaces
+ kubens <namespace name>     used to change the active namespace
+ 
+ 
+ 
 
 
 https://www.linuxtechi.com/how-to-install-minikube-on-ubuntu/   
