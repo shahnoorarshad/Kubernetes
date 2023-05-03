@@ -1,2 +1,10 @@
+ minikube service mongo-express-service         : used to Opening service default/mongo-express-service in default browser. 
+ kubectl get deployment nginx deployment -o yaml      > used to get status 
+ kubectl logs <pod name>
+ kubectl delete deployment <deployment name>
+ kubectl apply -f [file name]
+ 
+
+
 https://www.linuxtechi.com/how-to-install-minikube-on-ubuntu/   
     => link to install minikube on ubuntu 20.04
